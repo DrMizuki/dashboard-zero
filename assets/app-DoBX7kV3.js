@@ -1,0 +1,1 @@
+import{O as e,a as t,k as n}from"./vendor-BDOTmlle.js";var r=t(`app`,()=>{let t=n(`mock`),r=e({keyword:``,level:``,sort:`desc`});function i(){r.keyword=``,r.level=``,r.sort=`desc`}return{dataMode:t,detailFilters:r,resetDetailFilters:i}});export{r as t};
